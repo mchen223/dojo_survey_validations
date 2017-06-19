@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0 auto;
+  background-color: lightgrey;
+}
+
+body {
+  width: 400px;
+  height: 200px;
+  margin: 200px;
+  padding: 100px;
+  border: 5px solid black;
+  text-align: center;
+  background-color: white;
+}
+
+form {
+  background-color: white;
+}
+h1 {
+  text-decoration: underline;
+  font-weight: bold;
+  background-color: white;
+}
+
+p {
+  font-size: 16pt;
+  background-color: white;
+  margin-bottom : 5px;
+}
+
+a {
+   background: lightgrey;
+   margin: 5px;
+   text-decoration: none;
+   font-size: 14px;
+   color: black;
+   padding: 5px;
+}
